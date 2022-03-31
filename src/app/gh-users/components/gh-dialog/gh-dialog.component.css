@@ -1,0 +1,22 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.repo{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    min-height: 100vh;
+}
+
+.mat-card{
+    background: #bbbbbb;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
